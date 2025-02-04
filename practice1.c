@@ -136,3 +136,29 @@ void main()
         printf("-1");
     }
 }
+
+//***************************************************************
+// void main()
+// {
+//     int a[10],i,n,count=0,counto=0,ans;
+//     printf("Enter size: ");
+//     scanf("%d",&n);
+//     printf("Entre array: ");
+//     for(i=0;i<n;i++)
+//     {
+//         scanf("%d",&a[i]);
+//     }
+//     for(i=0;i<n;i++)
+//     {
+//         if(a[i]%2==0)
+//         {
+//             count++;
+//         }
+//         else
+//         {
+//             counto++;
+//         }
+//     }
+//     printf("%d",counto);
+
+// }
